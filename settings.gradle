@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Google And Facebook Sign Up And Login"

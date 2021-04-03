@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google And Facebook Sign Up And Login</string>
+    <string name="facebook_app_id">349100223179681</string>
+    <string name="fb_login_protocol_scheme">fb349100223179681</string>
+
+</resources>
